@@ -1,3 +1,4 @@
-select * from test
-
-
+SELECT
+  *
+FROM
+  test;
