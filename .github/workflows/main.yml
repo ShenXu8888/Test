@@ -1,4 +1,5 @@
-name: "Formatting queries"
+name: Formatting queries
+
 on: # rebuild any PRs and master branch changes
     pull_request:
     push:
