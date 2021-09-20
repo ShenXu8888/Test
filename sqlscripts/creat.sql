@@ -1,6 +1,6 @@
 USE [CaboodlePOC_Stage]
 
-CREATE TABLE Custom.SXu_ErsatzEmpolyeeRole (
+create table Custom.SXu_ErsatzEmpolyeeRole (
 	StageKey				int IDENTITY(1,1)	--Technically optional	
 	,eMPLOYEE_ROLE_ID					nvarchar(10)
 	,eMPLOYEE_ROLE_NAME					nvarchar(50)
