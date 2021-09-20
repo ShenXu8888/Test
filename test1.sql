@@ -1,1 +1,4 @@
-select * from tttt
+SELECT
+  *
+FROM
+  tttt;
